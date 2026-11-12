@@ -1,0 +1,15 @@
+{
+  "id": "world_060",
+  "name": "JAYDEN — Starter Project",
+  "author": "Teacher starter for JAYDEN",
+  "description": "Defeat the training robots, then reach the exit.",
+  "iconColor": "orange",
+  "position": {
+    "x": 192,
+    "y": 384
+  },
+  "width": 32,
+  "height": 32,
+  "levelId": "world_060_level",
+  "rewardId": "key_world_060"
+}
