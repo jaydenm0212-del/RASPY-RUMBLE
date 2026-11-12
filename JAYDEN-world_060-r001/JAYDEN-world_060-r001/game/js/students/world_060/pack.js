@@ -27,7 +27,7 @@ registerStudentPack({
   },
   // Tell players the actual controls and winning rule before sending them to fight.
   dialogue: {
-    training: { speaker: "Coach", lines: [
+    training: { speaker: "Toen guide", lines: [
       "Hello, Welcome to training! Clear two waves of robots, then reach the gold exit.",
       "Walk with WASD or the arrow keys. Face a robot and tap J or Space to strike.",
       "Each strike has a short cooldown. Holding the button does not keep attacking.",
